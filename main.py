@@ -15,3 +15,5 @@ if __name__ == '__main__':
     print_hi("Hello World Updates on GitHub")
 
     print_hi('Hello World Updates on Local Master Branch')
+
+    print_hi('Hello World Updates 2 on Github')
