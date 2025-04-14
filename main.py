@@ -9,3 +9,5 @@ if __name__ == '__main__':
     print_hi('Hello World 3')
 
     print_hi('Hello World 4')
+
+    print_hi('Hello World 5')
